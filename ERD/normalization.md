@@ -143,5 +143,5 @@ The design effectively balances normalization principles with practical applicat
 
 ---
 **Author:** James Eghievha  
-**Date:** 31 August 2025  
+**Date:** 29 August 2025  
 **Project:** ALX Airbnb Database Design
