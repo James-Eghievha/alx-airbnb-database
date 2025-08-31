@@ -97,7 +97,8 @@ This Entity-Relationship Diagram (ERD) represents the database design for an Air
 5. **Review System**: Users can review properties they've potentially stayed at
 6. **Messaging**: Users can communicate with each other
 
-## Created by:James Eghievha
+## Created by: James Eghievha
 ## Date: 27 August 2025
 ## Project: ALX Airbnb Database Design
+
 
