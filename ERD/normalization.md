@@ -142,6 +142,6 @@ The design effectively balances normalization principles with practical applicat
 4. **Performance Testing:** Monitor and optimize based on actual usage patterns
 
 ---
-**Author:** [Your Name]  
-**Date:** [Current Date]  
+**Author:** James Eghievha  
+**Date:** 31 August 2025  
 **Project:** ALX Airbnb Database Design
