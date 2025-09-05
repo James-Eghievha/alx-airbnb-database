@@ -92,7 +92,7 @@ CREATE INDEX idx_booking_status_date ON Booking(status, start_date);
 -- ALTERNATIVE PARTITIONING: BY MONTH (More Granular)
 -- ===================================
 
--- If you need more granular partitioning, use this approach instead:
+-- If  more granular partitioning is needed, we could use this approach instead:
 
 /*
 -- Monthly partitioning example (comment out if using yearly)
